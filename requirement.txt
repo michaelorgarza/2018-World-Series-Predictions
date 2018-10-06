@@ -1,0 +1,6 @@
+simplejson
+pymysql
+Flask
+flask-cors
+-U flask-cors
+gunicorn==19.7.1
